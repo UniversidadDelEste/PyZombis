@@ -78,6 +78,7 @@ class TestJuego(unittest.TestCase):
     @classmethod
     def tearDownClass(cls):
         print(cls.borg.score)
+        vpl_grade(cls.borg.score)
 
     def test_piedra_vs_piedra(self):
         piedra_1 = Piedra()
