@@ -1,4 +1,15 @@
 #!/usr/bin/python2
+# coding: utf-8
+# Bienvenido al juego Piedra, Papel o Tijera!. Desafortunadamente el juego no funciona
+# puesto que se han perdido algunas partes del código fuente. Si eres tan amable, por
+# favor te pido me ayudes a ponerlo en funcionamiento nuevamente. Para ello deberás
+# como primer paso, leer y entender el código existente. Luego, notaras que falta completar
+# la implementación de las clases Piedra y Papel, puede que leyendo el ćodigo de la clase
+# Tijera te sirva de guia. También creo haber notado que en la clase Juego, en el método
+# jugar, pareciera que falta definir cuando gana un jugador una partida, te he dejado un
+# comentario en el código fuente para indicarte en qué parte deberías escribir el código faltante,
+# espero te sea de ayuda. Muchas gracias por tu ayuda!
+
 import unittest
 
 
